@@ -42,3 +42,4 @@ All pull requests should target the `staging` branch. Changes are merged from `s
 ## License
 
 [MIT](./LICENSE)
+
